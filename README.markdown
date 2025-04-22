@@ -11,7 +11,7 @@ This repository contains a Python-based data analysis project that answers four 
 - `.gitignore`: Ignores temporary files (e.g., `.ipynb_checkpoints/`, `__pycache__/`).
 - `requirements.txt`: Python dependencies.
 - `setup.sh`: Setup script for environment.
-- `LICENSE`: MIT License.
+
 
 ## Questions Answered
 
