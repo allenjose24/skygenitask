@@ -92,13 +92,9 @@ Key findings (see `notebooks/skygenitask.ipynb` for details):
 - `docs/project_plan.md`: Project goals, methodology, and interpretation of results.
 - Additional details are in the notebook’s comments and outputs.
 
-## License
-
-This project is licensed under the MIT License (see `LICENSE`).
-
 ## Contact
 
-For questions, contact \[Your Name\] at \[your.email@example.com\] or open an issue on GitHub.
+For questions, contact me at allenjose2110@gmail.com or open an issue on GitHub.
 
 ---
 
