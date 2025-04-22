@@ -1,0 +1,16 @@
+1. How many finance lending and blockchain clients does the organization have?
+Ans: Total Finance Lending & Blockchain Clients: 47
+
+2. Which industry in the organization has the highest renewal rate?
+Ans: Industry with the highest renewal rate: Gaming (72.73%)
+
+3. What was the average inflation rate when their subscriptions were renewed?
+Ans: Average Inflation Rate at Renewal: 4.78%
+
+4. What is the median amount paid each year for all payment methods? 
+Ans: Median Yearly Payment by Payment Method:
+
+payment_method
+Bank Transfer    238.3
+Check            365.6
+Credit Card      291.0
