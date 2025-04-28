@@ -25,7 +25,7 @@ This repository contains a Python-based data analysis project that answers four 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/skygenitask.git
+   git clone https://github.com/allenjose24/skygenitask.git
    cd skygenitask
    ```
 
